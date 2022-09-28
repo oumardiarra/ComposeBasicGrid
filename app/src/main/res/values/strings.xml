@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ComposeBasicsGrid</string>
+    <string name="topic_architecture">Architecture</string>
+    <string name="topic_business">Business</string>
+    <string name="topic_crafts">Crafts</string>
+    <string name="topic_culinary">Culinary</string>
+    <string name="topic_design">Desing</string>
+    <string name="topic_fashion">Fashion</string>
+    <string name="topic_film">Film</string>
+    <string name="topic_gaming">Gaming</string>
+    <string name="topic_lifestyle">Lifestyle</string>
+    <string name="topic_music">Music</string>
+    <string name="topic_painting">Painting</string>
+    <string name="topic_photography">Photography</string>
+
+</resources>
